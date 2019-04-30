@@ -1,4 +1,4 @@
-# Assignment-Template
+# Assignment Template
 Template for an Assignment
 
 ___
