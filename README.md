@@ -1,5 +1,5 @@
-# HW-Template
-Template for a Homework Assignment
+# Assignment-Template
+Template for an Assignment
 
 ___
 ![Creative Commons Attribution-NonCommercial 4.0 International License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png "Creative Commons Attribution-NonCommercial 4.0 International License")
