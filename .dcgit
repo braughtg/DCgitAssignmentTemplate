@@ -13,5 +13,5 @@
 #
 # Copyright 2019 Grant Braught
 
-PAIRED=true
+IS_PAIRED=true
 INSTRUCTOR_GITHUB_ID=braughtg
