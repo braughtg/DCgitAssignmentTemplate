@@ -14,4 +14,3 @@
 # Copyright 2019 Grant Braught
 
 IS_PAIRED=true
-INSTRUCTOR_GITHUB_ID="The Instructor"
